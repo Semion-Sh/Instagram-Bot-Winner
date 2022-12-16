@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/author-Semion%20Shandruk-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen) ![](https://img.shields.io/github/issues/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/forks/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/stars/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/license/Semion-Sh/Instagram-Bot-Winner)
+![](https://img.shields.io/badge/author-Semion%20Shandruk-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen) ![](https://img.shields.io/github/issues/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/forks/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/stars/Semion-Sh/Instagram-Bot-Winner)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
 
 This is an instagram comment bot with which you can win Instagram giveaways
